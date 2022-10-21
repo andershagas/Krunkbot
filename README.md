@@ -8,6 +8,8 @@ Vår hovedserver var i USA, New York og vi brukte hovedsakeling ftp/filezilla fo
 
 Vi brukte Windows server 2016 i den tid og byttet deretter til headless linux med PM2.
 
+Mye av vår kode er tilgjengelig i denne repoen. Vi brukte ikke SQL servere, noe jeg nå vet at jeg burde, men jaja.
+
 ![image](https://user-images.githubusercontent.com/42244235/197082300-a9085b30-112a-4873-b333-ee69b6003a7b.png)
 =========
 
@@ -25,3 +27,4 @@ Insurgent - Leder
 Sam - Stab
 Levi - Stab
 Sakusa - Stab
+
