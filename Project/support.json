@@ -1,0 +1,30 @@
+{
+    "totaltickets": 18,
+    "active": [],
+    "archived": [
+        {
+            "member": "158631628397084672",
+            "supportmember": "DivineAspect#8663",
+            "kchannel": "630098472242249749",
+            "schannel": "623095956128268289",
+            "serverid": "620304406599958539",
+            "description": "test herro"
+        },
+        {
+            "member": "436608458939301888",
+            "supportmember": "DivineAspect#8663",
+            "kchannel": "630101392715022347",
+            "schannel": "628630974653268026",
+            "serverid": "628621368350605323",
+            "description": "The bot did something weird"
+        },
+        {
+            "member": "551825457948131339",
+            "supportmember": "Voidex#0001",
+            "kchannel": "644007858156994564",
+            "schannel": "585651357545922581",
+            "serverid": "585169236608155658",
+            "description": "void help"
+        }
+    ]
+}

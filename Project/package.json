@@ -1,0 +1,23 @@
+{
+  "name": "krunkbot",
+  "version": "1.0.0",
+  "description": "A bot made for krunker clans.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Voidex#0001",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.0",
+    "canvas-constructor": "^3.1.0",
+    "discord.js": "^11.5.1",
+    "fs-nextra": "^0.4.5",
+    "mathjs": "^6.2.2",
+    "ms": "^2.1.2",
+    "msgpack-lite": "^0.1.26",
+    "puppeteer": "^1.20.0",
+    "request": "^2.88.0",
+    "ws": "^7.1.2"
+  }
+}
