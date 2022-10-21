@@ -1,6 +1,8 @@
 # Krunkbot
 En discord-bot laget for Krunker-klan administrasjon og andre administrative formål.
 
+[Lenke til nyhetsartikkel om Krunkbot.](https://www.kode24.no/koden-bak/krunkbot-far-over-700-foresporsler-i-timen/71684791)
+
 ![image](https://user-images.githubusercontent.com/42244235/197081158-b86d7f73-9ed6-4863-93fe-bcfc34201336.png)
 
 For spill samfunnet basert rundt Krunker.io var denne botten stort. På vår høyeste så var vi i totalt 2,042 servere, og administrerte totalt 182,228 brukere om gangen.
