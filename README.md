@@ -23,9 +23,9 @@ Tim Laszlo - Utvikler
 STABSTEAM
 ====
 
-Insurgent  Leder
-Sam  Stab
-Levi  Stab
-Sakusa  Stab
+Insurgent - Leder
+Sam - Stab
+Levi - Stab
+Sakusa - Stab
 
 https://www.youtube.com/watch?v=39Rx79rw3MQ
