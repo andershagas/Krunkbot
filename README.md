@@ -20,15 +20,25 @@ Anders Hagås - Prosjektleder/Fullstack Utvikler
 
 Tim Laszlo - Utvikler
 
+Iniquity - Designer
+
 
 STABSTEAM
 ====
 
 Insurgent - Leder
 
-Sam - Stab
+Lin - Admin Support
 
-Levi - Stab
+Sam - Admin Support
+
+Levi - Admin Support
+
+Byte - Mod Support
+
+Sej - Mod Support
+
+Sulam - Mod Support
 
 Sakusa - Stab
 
