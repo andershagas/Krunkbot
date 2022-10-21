@@ -11,6 +11,7 @@ Vi brukte Windows server 2016 i den tid og byttet deretter til headless linux me
 Mye av vår kode er tilgjengelig i denne repoen. Vi brukte ikke SQL servere, noe jeg nå vet at jeg burde, men jaja.
 
 Her kan du se en offisiel video som ble laget rundt Krunkbot:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/39Rx79rw3MQ/0.jpg)](https://www.youtube.com/watch?v=39Rx79rw3MQ)
 
 ![image](https://user-images.githubusercontent.com/42244235/197082300-a9085b30-112a-4873-b333-ee69b6003a7b.png)
